@@ -1,0 +1,17 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\bin\Debug\net6.0-windows\NotHesapla.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\bin\Debug\net6.0-windows\NotHesapla.deps.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\bin\Debug\net6.0-windows\NotHesapla.runtimeconfig.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\bin\Debug\net6.0-windows\NotHesapla.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\bin\Debug\net6.0-windows\NotHesapla.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.AssemblyInfoInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.AssemblyInfo.cs
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\refint\NotHesapla.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.genruntimeconfig.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\ref\NotHesapla.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\NotHesapla\obj\Debug\net6.0-windows\NotHesapla.NotHesapla.resources
